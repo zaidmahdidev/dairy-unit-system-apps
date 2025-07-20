@@ -1,8 +1,15 @@
-# 🥛 Milk Unit Management System
+![](https://img.shields.io/badge/build-1.0.0+1-brightgreen)
+
+<br />
+<div align="center">
+  <img alt='logo_design' src='screen_shots/collector/cover.png'/>
+  <h2 align="center"># 🥛 Milk Unit Management System</h2>
+</div>
+
 
 ## 🧩 System Overview
 
-The Milk Unit Management System is a modular solution designed for the Agricultural and Fisheries Committee under the Investment Sector – Information Systems Department. It includes three specialized applications:
+The Dairy Unit Management System is a modular solution designed for the Agricultural and Fisheries Committee under the Investment Sector – Information Systems Department. It includes three specialized applications:
 
 - **Milk Unit for Collectors** – Facilitates collection from households and records accurate data.
 - **Milk Unit for Association** – Supervises collectors, manages milk flow, and produces detailed reports.
