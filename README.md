@@ -40,6 +40,7 @@ Each app provides light and dark mode screenshots of their specific workflows in
 
 
 📷 All screenshots for Collector app.
+
 Light Mode
 <table>
 <tr>
@@ -109,6 +110,7 @@ Dark Mode
 ---
 
 📷 All screenshots for Association app.
+
 Light Mode
 <table>
 <tr>
@@ -209,6 +211,7 @@ Dark Mode
 
 📷 All screenshots for Delegates app.
 
+Light Mode
 <table>
 <tr>
 <td><img src="screen_shots/delegate/splash.jpg" width="100%"/></td>
