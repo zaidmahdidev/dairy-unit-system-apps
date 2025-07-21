@@ -349,4 +349,4 @@ Developed by the Information Systems Department – Investment Sector – Agricu
 For inquiries or support, please contact zaidmhdi33@gmail.com.
 
 
-© 2025 Milk Unit Management System. All rights reserved.
+© 2024 Milk Unit Management System. All rights reserved.
